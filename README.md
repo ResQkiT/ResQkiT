@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👨🏻‍🎓 About me <br />
 
-<!--
-**ResQkiT/ResQkiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Ilya Safronov!
 
-Here are some ideas to get you started:
+👀 I’m mostly interested in Java Backend Developing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently studying Computer Science at MEPHI University
+
+📫You can reach me in Telegram: [@Resk_QuiT](https://t.me/Resk_QuiT)
+### Languages 
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs)](https://skillicons.dev)
+
+### Back-end
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,git,cmake)](https://skillicons.dev)
