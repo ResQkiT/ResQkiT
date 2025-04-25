@@ -6,7 +6,7 @@
 
 🌱 I’m currently studying Computer Science at MEPHI University
 
-📫You can reach me in Telegram: [@Resk_QuiT](https://t.me/Resk_QuiT)
+📫You can reach me in Telegram: [@Resk_QuiT](https://t.me/Resk_QuiT_R)
 ### Languages 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs)](https://skillicons.dev)
 
