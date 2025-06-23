@@ -1,20 +1,13 @@
-## 👨🏻‍🎓 About me <br />
+<h1 align="center">Hi, I'm Ilya Safronov 👋</h1>
 
-👋 Hi, I’m Ilya Safronov!
+<p align="center">
+  Java Backend Developer & CS Student @ MEPHI <br/>
+  Passionate about scalable backend systems and DevOps <br/>
+  📫 Telegram: <a href="https://t.me/Resk_QuiT_R">@Resk_QuiT</a>
+</p>
 
-👀 I’m mostly interested in Java Backend Developing.
+## 🧠 Tech Overview
 
-🌱 I’m currently studying Computer Science at MEPHI University
-
-📫You can reach me in Telegram: [@Resk_QuiT](https://t.me/Resk_QuiT_R)
-### Languages 
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs)](https://skillicons.dev)
-
-### Back-end
-[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis)](https://skillicons.dev)
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,cmake)](https://skillicons.dev)
+| Languages | Backend | Databases | Tools |
+|----------|---------|-----------|-------|
+| [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,cs)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,kafka,grafana)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=postgres,redis,prometheus)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,git,cmake)](https://skillicons.dev) |
